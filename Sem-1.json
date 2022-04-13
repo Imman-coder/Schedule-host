@@ -1,0 +1,219 @@
+{
+    "last_updated":"pata nii",
+    "table": {
+      "A":[
+            [
+                {
+                    "name":"BME",
+                    "teacher":"NP",
+                    "time":"9:15 - 10:10"
+                },
+                {
+                    "name":"CE GR-1 / PHY GR-II",
+                    "teacher":"LP / SB,BS",
+                    "time":"10:10 - 12:55"
+                },
+                {
+                    "name":"LUNCH BREAK",
+                    "teacher":"",
+                    "time":"12:55 - 1:45"
+                },
+                {
+                    "name":"BEE",
+                    "teacher":"SKS",
+                    "time":"1:45 - 2:35"
+                },
+                {
+                    "name":"MATH",
+                    "teacher":"NCS",
+                    "time":"2:35 - 3:25"
+                },
+                {
+                    "name":"SE",
+                    "teacher":"SD",
+                    "time":"3:25 - 4:15"
+                }
+            ],
+            [
+                {
+                    "name":"CE",
+                    "teacher":"SD",
+                    "time":"9:15 - 10:10"
+                },
+                {
+                    "name":"BME",
+                    "teacher":"NP",
+                    "time":"10:10 - 11:05"
+                },
+                {
+                    "name":"PHY",
+                    "teacher":"SB",
+                    "time":"11:05 - 12:00"
+                },
+                {
+                    "name":"MATH",
+                    "teacher":"NCS",
+                    "time":"12:00 - 12:55"
+                },
+                {
+                    "name":"LUNCH BREAK",
+                    "teacher":"",
+                    "time":"12:55 - 1:45"
+                },
+                {
+                    "name":"CE GP-II / EWS GP-I",
+                    "teacher":"LP / NP",
+                    "time":"1:45 - 4:15"
+                }
+            ],
+            [
+                {
+                    "name":"PHY",
+                    "teacher":"BS",
+                    "time":"9:15 - 10:10"
+                },
+                {
+                    "name":"CE",
+                    "teacher":"SD",
+                    "time":"10:10 - 11:05"
+                },
+                {
+                    "name":"BEE",
+                    "teacher":"SKS",
+                    "time":"11:05 - 12:00"
+                },
+                {
+                    "name":"MATH",
+                    "teacher":"RKJ",
+                    "time":"12:00 - 12:55"
+                },
+                {
+                    "name":"LUNCH BREAK",
+                    "teacher":"",
+                    "time":"12:55 - 1:45"
+                },
+                {
+                    "name":"BEE GR-I / EWS GP-II",
+                    "teacher":"PCP,MRM / NP",
+                    "time":"1:45 - 4:15"
+                }
+            ],
+            [
+                {
+                    "name":"CE",
+                    "teacher":"SD",
+                    "time":"9:15 - 10:10"
+                },
+                {
+                    "name":"BME",
+                    "teacher":"NP",
+                    "time":"10:10 - 11:05"
+                },
+                {
+                    "name":"PHY",
+                    "teacher":"BS",
+                    "time":"11:05 - 12:00"
+                },
+                {
+                    "name":"MATH",
+                    "teacher":"NCS",
+                    "time":"12:00 - 12:55"
+                },
+                {
+                    "name":"LUNCH BREAK",
+                    "teacher":"",
+                    "time":"12:55 - 1:45"
+                },
+                {
+                    "name":"BEE GP-II / PHY GR-I",
+                    "teacher":"AN,GM / BS,SB",
+                    "time":"1:45 - 4:15"
+                }
+            ],
+            [
+                {
+                    "name":"BEE",
+                    "teacher":"SKS",
+                    "time":"9:15 - 10:10"
+                },
+                {
+                    "name":"PHY",
+                    "teacher":"BS",
+                    "time":"10:10 - 11:05"
+                },
+                {
+                    "name":"MATH",
+                    "teacher":"RKJ",
+                    "time":"11:05 - 12:00"
+                },
+                {
+                    "name":"EVS",
+                    "teacher":"SSB",
+                    "time":"12:00 - 12:55"
+                },
+                {
+                    "name":"LUNCH BREAK",
+                    "teacher":"",
+                    "time":"12:55 - 1:45"
+                },
+                {
+                    "name":"CE",
+                    "teacher":"SD",
+                    "time":"1:45 - 2:35"
+                },
+                {
+                    "name":"BME",
+                    "teacher":"NP",
+                    "time":"2:35 - 3:25"
+                },
+                {
+                    "name":"LIBRARY/TUT",
+                    "teacher":"",
+                    "time":"3:25 - 4:15"
+                }
+            ],
+            [
+                {
+                    "name":"CE",
+                    "teacher":"SD",
+                    "time":"9:15 - 10:10"
+                },
+                {
+                    "name":"BEE",
+                    "teacher":"SKS",
+                    "time":"10:10 - 11:05"
+                },
+                {
+                    "name":"PHY",
+                    "teacher":"SB",
+                    "time":"11:05 - 12:00"
+                },
+                {
+                    "name":"EVS",
+                    "teacher":"SSB",
+                    "time":"12:00 - 12:55"
+                },
+                {
+                    "name":"LUNCH BREAK",
+                    "teacher":"",
+                    "time":"12:55 - 1:45"
+                },
+                {
+                    "name":"BEE",
+                    "teacher":"SKS",
+                    "time":"1:45 - 2:35"
+                },
+                {
+                    "name":"BME",
+                    "teacher":"NP",
+                    "time":"2:35 - 3:25"
+                },
+                {
+                    "name":"PROCT/TUT",
+                    "teacher":"",
+                    "time":"3:25 - 4:15"
+                }
+            ]
+        ]
+    }
+}
